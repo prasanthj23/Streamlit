@@ -44,7 +44,7 @@ colorama
 colorcet
 colorlover
 comtypes
-conda
+conda==4.3.16
 conda-build
 conda-content-trust
 conda-pack
